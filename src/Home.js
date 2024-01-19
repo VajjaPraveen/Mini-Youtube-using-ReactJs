@@ -14,7 +14,6 @@ class NxtHome extends Component {
     render() {
         
         return (<>
-            {/* <NxtHeader /> */}
             <NxtWrapper/>
             <div className="NxtHomeContainer">
                 <NxtSideBar />
